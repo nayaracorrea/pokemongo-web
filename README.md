@@ -4,4 +4,4 @@ Criação de um site onde serão disponibilizados informações sobre o vasto un
 
 ## Projeto em desenvolvimento
 
-![Alt Text](https://gph.is/g/EJ820B9)
+<img src="https://media.giphy.com/media/MPO8T3xkbhekXAXgMy/giphy.gif"  />
